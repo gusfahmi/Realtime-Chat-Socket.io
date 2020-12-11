@@ -1,15 +1,14 @@
 {
   "name": "nodejs-socket-io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Realtime Chat With Socket.io",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Gusfahmi Alghazali Caniago",
   "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
+  "dependencies": { 
     "express": "^4.17.1",
     "nodemon": "^2.0.6",
     "socket.io": "^3.0.4"
