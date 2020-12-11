@@ -12,4 +12,4 @@ npm install
 npm start
 ```
 
-2. The project will start on 2000 port.
+3. The project will start on 2000 port.
